@@ -3,7 +3,7 @@
 export const authEndPoint = "https://accounts.spotify.com/authorize";
 
 //redirect URI back to home page once logged in
-const redirectUri = "https://spotify-fake1.herokuapp.com/";
+const redirectUri = "https://spotify-fake1.herokuapp.com/#";
 
 //spotify client id
 const clientId = "5f97c2b3b24c4a38b834bf822efb1e98";
